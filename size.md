@@ -23,7 +23,9 @@
 
 
 ### 沙發
-* 未確定
-* 尺寸 : 239 x 110 x 105
-* 尺寸 : (210-229) x 100 x 105
+* ![](./src/沙發.jpg) 
+* ![](./src/沙發_2.jpeg) 
+* http://www.hmg-furniture.com/page/product/show.aspx?num=6872&kw=%e5%a4%a7%e8%b1%a1&page=1
+* 尺寸 : 230*102~155*80
+
 
