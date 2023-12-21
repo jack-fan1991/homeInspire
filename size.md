@@ -25,7 +25,8 @@
 ### 沙發
 * ![](./src/沙發.jpg) 
 * ![](./src/沙發_2.jpeg) 
+* ![](./src/沙發色卡.jpg) 
 * http://www.hmg-furniture.com/page/product/show.aspx?num=6872&kw=%e5%a4%a7%e8%b1%a1&page=1
-* 尺寸 : 230*102~155*80
+* 尺寸 : 230x(102~155)x80
 
 

@@ -1,0 +1,5 @@
+< [上一頁](./index.html)
+* ![](./src/bar_size.jpg) 
+* ![](./src/bar1.jpg) 
+* ![](./src/bar2.jpg) 
+* ![](./src/bar3.jpg) 

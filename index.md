@@ -1,19 +1,8 @@
 
-- [風格](#風格)
-- [玄關櫃體](#玄關櫃體)
-- [玄關櫃體2](#玄關櫃體2)
-- [廚房](#廚房)
-- [主臥](#主臥)
-- [次臥](#次臥)
 - [插座孔](./port.html)
 - [家具尺寸](./size.html)
-- [旋轉桌系統櫃](#旋轉桌)
+- [投影機尺寸](./tv.html)
 
-備註
-```
-預留電動窗簾插座
-
-```
 
 #### 風格
    * [參考](https://www.xiaohongshu.com/explore/654b0621000000001e00d1fc?app_platform=android&app_version=8.11.0&author_share=2&ignoreEngage=true&share_from_user_hidden=true&type=normal&xhsshare=CopyLink&appuid=5fca4c68000000000101fd47&apptime=1699926539)
@@ -23,11 +12,14 @@
    ![](./src/style_2_2.png)
 
 
+#### 基礎佈局
+   ![](./src/基礎佈局.png) 
+   * [抽拉中島](https://www.xiaohongshu.com/explore/6363298c0000000009011e6e?app_platform=android&app_version=8.11.5&author_share=2&ignoreEngage=true&share_from_user_hidden=true&type=normal&xhsshare=CopyLink&appuid=5fca4c68000000000101fd47&apptime=1702574874)
+   * [沙發旁收納bar](./bar_size.html)
+
 #### 玄關櫃體
    *  進門左側半開放牆面,小中島
-   * style1
    ![](./src/door1_1.png) 
-   ![](./src/door1_2.png) 
 
 #### 玄關櫃體2
    ![](./src/玄關_２.png) 
@@ -45,8 +37,7 @@
   * [風格]( https://www.bilibili.com/video/BV1m24y12734/?vd_source=7c6d0cc8944e63ca7600b0d0aa49ee1d
 ) 
 #### 次臥
-   ![](./src/room_1_1.png) 
-   ![](./src/room_1_2.png)
+   * [沙發床](https://m.tb.cn/h.5nKMKcY?tk=aO9UWg364hn) 
 
 
 ### 特殊家具
